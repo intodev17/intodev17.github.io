@@ -1,0 +1,7 @@
+# 파이썬 입력 받기(input())
+
+input()
+
+input().split()
+
+map(int, input().split())
